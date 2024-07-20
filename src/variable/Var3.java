@@ -1,7 +1,7 @@
 package variable;
 
 public class Var3 {
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
 
         //정수
         byte b = 127;
